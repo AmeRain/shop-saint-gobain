@@ -1,5 +1,5 @@
 pip==19.0.3
-py==1.7.0
+py==1.10.0
 pytest==4.0.0
 selenium==3.0.2
 pytest-sugar
